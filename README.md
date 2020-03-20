@@ -1,0 +1,2 @@
+# DQN-analysis-with-2048
+Deep Reinforcement Learning has proved useful in solving tasks bounded by an environment/rules. Q-learning, a popular method of RL, has been shown to solve wide varieties of diverse environments. Due to the vigorous study/use of Q-learning, engineers and researchers have developed various add-ons and improvements to this algorithm. Using the once popular game 2048 as our environment, we will analyze these improvements to find the optimal Q-learning policy.
