@@ -3,8 +3,8 @@ Deep Reinforcement Learning has proved useful in solving tasks bounded by an env
 
 #### DQN implementation based on these papers
 Playing Atari with Deep Reinforcement Learning, Google Deepmind: 
-https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf <br>
 Deep Reinforcement Learning with Double Q-learning, Google Deepmind:
-https://arxiv.org/pdf/1509.06461.pdf
+https://arxiv.org/pdf/1509.06461.pdf<br>
 Rainbow: Combining Improvements in Deep Reinforcement Learning, Google Deepmind:
 https://arxiv.org/pdf/1710.02298.pdf
